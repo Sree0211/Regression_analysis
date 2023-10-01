@@ -1,7 +1,7 @@
 # Regression_analysis
 
 ## Overview
-This project is a car price regression analysis implemented in Python using TensorFlow. The goal of the project is to predict the price of cars based on various features such as model, year, mileage, and other relevant attributes. TensorFlow, a popular machine learning framework, is used to build and train the regression model.
+This project is a car price regression analysis implemented in Python using TensorFlow. The goal of the project is to predict the price of cars based on various features such as horsepower, year, Km, economy, and other relevant attributes. TensorFlow, a popular machine learning framework, is used to build and train the regression model.
 
 Table of Contents
 Overview
@@ -16,9 +16,7 @@ Contributing
 License
 
 ## Installation
-Install TensorFlow: Make sure you have TensorFlow installed. You can install it using pip:
-
-Navigate to the project directory: cd car-price-regression
+Install TensorFlow: Make sure you have TensorFlow installed. You can install it using pip.
 
 ## Usage
 Run the Jupyter Notebook: Open the Jupyter Notebook provided in the notebooks directory. The notebook contains step-by-step instructions for data loading, preprocessing, model building, training, and evaluation.
